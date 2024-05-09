@@ -79,7 +79,6 @@ public class DoublyLinkedList {
         //double[] array = new double[length+1];
         double[] array = new double[length];
         Element element = begin;
-        //int arrayPos = 1;
         int arrayPos = 0;
         while (element != null) {
             array[arrayPos] = element.value;
