@@ -123,6 +123,7 @@ class DoublyLinkedListTest {
         testBeginEndPointers(list);
     }
 
+
     /**
      * Helper method to test begin and end pointers of a doubly linked list
      * @param list List to test
