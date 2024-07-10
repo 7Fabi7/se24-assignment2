@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: default
     env:
-      SONAR_ORGANIZATION: Fabian Winkler
+      SONAR_ORGANIZATION: 7fabi7
       SONAR_PROJECT_KEY: 7Fabi7_se24-assignment2
 
     steps:
